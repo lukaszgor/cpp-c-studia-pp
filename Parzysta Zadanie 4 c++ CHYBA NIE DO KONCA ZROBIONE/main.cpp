@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <cstdlib>
 
@@ -6,16 +5,20 @@ using namespace std;
 
 int main()
 {
-    int liczba;
+    int a, b;
 
-    cout << "wprowadz liczbe" << endl;
-    cin >> liczba;
+    cout << "Sprawdze, czy suma dwoch liczb jest parzysta." << endl << endl;
+    cout << "Wprowadz pierwsza liczbe: " ;
+    cin >> a;
+    cout << "Wprowadz druga liczbe: " ;
+    cin >> b;
 
-    if (liczba%2==0) //dzielenie modulo
-        cout << "wpisana liczba jest parzysta" << endl;
+    if ((a+b)%2==0)
+    cout << "Suma podanych liczb jest parzysta." << endl << endl;
+
     else
-        cout << "wpisana liczba jest nieparzysta" << endl;
+    cout << "Suma podanych liczba jest nieparzysta." << endl << endl;
 
-    system("PAUSE");
+    system ("pause");
     return(0);
 }
