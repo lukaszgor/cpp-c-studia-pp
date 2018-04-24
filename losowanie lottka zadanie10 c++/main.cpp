@@ -39,6 +39,6 @@ for (int i=1;i<6;i++){
     cout<<liczba;
 
 }
-
+//rwr4r
     return 0;
 }
