@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\PP studia informatyka PCZ\losowanieLooto zadanie10\losowanieLooto zadanie10\bin\Debug\losowanieLooto zadanie10.exe.config
+C:\Users\ASUS\Desktop\PP studia informatyka PCZ\losowanieLooto zadanie10\losowanieLooto zadanie10\bin\Debug\losowanieLooto zadanie10.exe
+C:\Users\ASUS\Desktop\PP studia informatyka PCZ\losowanieLooto zadanie10\losowanieLooto zadanie10\bin\Debug\losowanieLooto zadanie10.pdb
+C:\Users\ASUS\Desktop\PP studia informatyka PCZ\losowanieLooto zadanie10\losowanieLooto zadanie10\obj\Debug\losowanieLooto zadanie10.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\PP studia informatyka PCZ\losowanieLooto zadanie10\losowanieLooto zadanie10\obj\Debug\losowanieLooto zadanie10.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\PP studia informatyka PCZ\losowanieLooto zadanie10\losowanieLooto zadanie10\obj\Debug\losowanieLooto zadanie10.exe
+C:\Users\ASUS\Desktop\PP studia informatyka PCZ\losowanieLooto zadanie10\losowanieLooto zadanie10\obj\Debug\losowanieLooto zadanie10.pdb
+C:\Users\ASUS\Desktop\PP studia informatyka PCZ\losowanieLotto zadanie10\losowanieLooto zadanie10\bin\Debug\losowanieLooto zadanie10.exe.config
+C:\Users\ASUS\Desktop\PP studia informatyka PCZ\losowanieLotto zadanie10\losowanieLooto zadanie10\bin\Debug\losowanieLooto zadanie10.exe
+C:\Users\ASUS\Desktop\PP studia informatyka PCZ\losowanieLotto zadanie10\losowanieLooto zadanie10\bin\Debug\losowanieLooto zadanie10.pdb
+C:\Users\ASUS\Desktop\PP studia informatyka PCZ\losowanieLotto zadanie10\losowanieLooto zadanie10\obj\Debug\losowanieLooto zadanie10.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\PP studia informatyka PCZ\losowanieLotto zadanie10\losowanieLooto zadanie10\obj\Debug\losowanieLooto zadanie10.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\PP studia informatyka PCZ\losowanieLotto zadanie10\losowanieLooto zadanie10\obj\Debug\losowanieLooto zadanie10.exe
+C:\Users\ASUS\Desktop\PP studia informatyka PCZ\losowanieLotto zadanie10\losowanieLooto zadanie10\obj\Debug\losowanieLooto zadanie10.pdb

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1523369407 source:c:\users\asus\desktop\pp studia informatyka pcz\losowanie lottka zadanie10 pp\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+
