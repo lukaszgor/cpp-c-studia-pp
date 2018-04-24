@@ -10,6 +10,7 @@ int main()
     cin >> a;
     cout << "Podaj druga liczbe: ";
     cin >> b;
+    cout >> "FU ";
 
     do
     {
