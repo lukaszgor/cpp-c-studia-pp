@@ -1,7 +1,0 @@
-C:\Users\ASUS\Desktop\PP studia informatyka PCZ\sredniaOcenZad11\sredniaOcenZad11\bin\Debug\sredniaOcenZad11.exe.config
-C:\Users\ASUS\Desktop\PP studia informatyka PCZ\sredniaOcenZad11\sredniaOcenZad11\bin\Debug\sredniaOcenZad11.exe
-C:\Users\ASUS\Desktop\PP studia informatyka PCZ\sredniaOcenZad11\sredniaOcenZad11\bin\Debug\sredniaOcenZad11.pdb
-C:\Users\ASUS\Desktop\PP studia informatyka PCZ\sredniaOcenZad11\sredniaOcenZad11\obj\Debug\sredniaOcenZad11.csprojResolveAssemblyReference.cache
-C:\Users\ASUS\Desktop\PP studia informatyka PCZ\sredniaOcenZad11\sredniaOcenZad11\obj\Debug\sredniaOcenZad11.csproj.CoreCompileInputs.cache
-C:\Users\ASUS\Desktop\PP studia informatyka PCZ\sredniaOcenZad11\sredniaOcenZad11\obj\Debug\sredniaOcenZad11.exe
-C:\Users\ASUS\Desktop\PP studia informatyka PCZ\sredniaOcenZad11\sredniaOcenZad11\obj\Debug\sredniaOcenZad11.pdb
