@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cstdlib>
 
 using namespace std;
 
@@ -18,7 +19,8 @@ int main()
 
     y = cukierki-x*(uczniowie-1);
 
-    cout << endl << "Dla Jasia na wieczor zostanie "<< y <<" cukierkow." << endl;
+    cout << endl << "Dla Jasia na wieczor zostanie "<< y <<" cukierkow." << endl << endl;
 
+    system("pause");
     return 112;
 }
