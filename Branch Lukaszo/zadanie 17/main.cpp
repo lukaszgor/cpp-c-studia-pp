@@ -34,6 +34,9 @@ cout << "Czas zapisu Tablica dynamiczna:" << czas << endl;
         for(int i=2;i<n;i++){
          *(p+(i-2))=*(p+(i-3))+*(p+(i-4));
         }
+        p=fibo;
+        p=&fibo[n-1];
+
         delete []fibo;
 stop=clock();
 czas=(double)(stop - start) / CLOCKS_PER_SEC;
