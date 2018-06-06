@@ -1,0 +1,13 @@
+<windows.h> Sleep
+<cstdlib> system, rand
+<time.h>
+srand(time(NULL)); - liczba sekund od 1970
+
+
+
+00
+
+01 int, string
+02 if, else, &&, ||
+03 pêtle: for, while (warunek-instrukcja), do..while (instrukcja-warunek)
+04 liczby losowe (pseudolosowe) - rand()%100
